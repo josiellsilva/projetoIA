@@ -1,0 +1,29 @@
+#img{
+    width: 1360px;
+    height: 600px;
+    border: 0px solid;
+    background-image: url(fundo.jpg);
+    background-position: bottom right;
+}
+
+#rodape {
+	background-color: #cecece;
+            text-align: center;
+            border: solid 1px Gray;
+            font-size:8pt;
+            font-family: Verdana;
+            font-weight:bold;
+            width:100%;
+            color:Black;
+            position:fixed;
+            bottom:10px;
+            left:0px;
+    }
+    
+    #cabecario{
+
+        color: white;
+        
+    }
+
+    
