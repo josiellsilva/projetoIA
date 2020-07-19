@@ -1,13 +1,14 @@
 #img{
     width: 1360px;
-    height: 600px;
+    height: 900px;
     border: 0px solid;
     background-image: url(fundo.jpg);
     background-position: bottom right;
+    opacity: 0.75;
 }
 
 #rodape {
-	background-color: #cecece;
+	background-color: #0000;
             text-align: center;
             border: solid 1px Gray;
             font-size:8pt;
@@ -16,14 +17,19 @@
             width:100%;
             color:Black;
             position:fixed;
-            bottom:10px;
+            bottom:0px;
             left:0px;
     }
     
     #cabecario{
-
-        color: white;
-        
+        text-justify: distribute-all-lines;
+        font-weight: 500;
+        color:blue;
+        font-size: 22Spx;
     }
 
-    
+    #texto{
+color:black;
+        font-size: 18x;
+        font-weight: 600;
+    }
